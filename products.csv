@@ -1,0 +1,87 @@
+PRODUCT_ID,PRODUCT_NAME,CATEGORY BRAND,PRICE,CURRENCY,RATING,MARGIN
+10001,Apple AirTag,"Cell Phones Accessories,Apple",27,USD,4.7,10%
+10002,Apple AirTag 4 Pack,"Cell Phones Accessories,Apple",81,USD,4.7,10%
+10003,Apple Airpods Pro,"Audio,Apple",149,USD,4.6,10%
+10004,Fire Stick TV 4K,"TVs,Amazon",35,USD,3.8,10%
+10005,Blink Video Doorbell,"Smart Home Accessories,Blink",36,USD,4.3,8%
+10006,Roku Express,"TVs,Roku",24,USD,4.6,13%
+10007,Apple Ipad (9th Gen),"Tablets,Apple",230,USD,4.9,10%
+10008,Echo Dot (5th Gen),"Smart Home Accessories,Amazon",50,USD,3.6,13%
+10009,Fitbit Inspire 3,"Smartwatches,Fitbit",80,USD,3.6,15%
+10010,JBL Go 3,"Audio,JBL",29,USD,4.3,7%
+10011,"Fire TV 32""","TVs,Amazon",106,USD,5,11%
+10012,Beats Studio Buds,"Audio,Beats",70,USD,3.9,11%
+10013,"Vizio 40"" D-Series","TVs,Vizio",157,USD,4,13%
+10014,iPhone 15 Pro Max 256 GB,"Cell Phones,Apple",1199,USD,4.8,10%
+10015,iPhone 15 Pro Max 512 GB,"Cell Phones,Apple",1399,USD,4.8,10%
+10016,iPhone 15 Pro Max 1 TB,"Cell Phones,Apple",1599,USD,4.8,10%
+10017,iPhone 15 Pro 128 GB,"Cell Phones,Apple",999,USD,4.7,10%
+10018,iPhone 15 Pro 256 GB,"Cell Phones,Apple",1099,USD,5,10%
+10019,iPhone 15 Pro 512 GB,"Cell Phones,Apple",1299,USD,4.7,10%
+10020,iPhone 15 Pro 1 TB,"Cell Phones,Apple",1499,USD,4.8,10%
+10021,iPhone 15 128 GB,"Cell Phones,Apple",799,USD,4.5,10%
+10022,iPhone 15 256 GB,"Cell Phones,Apple",899,USD,4.6,10%
+10023,iPhone 15 512 GB,"Cell Phones,Apple",1099,USD,4.9,10%
+10024,"SAMSUNG Galaxy Tab S6 Lite 10.4"" 64GB","Tablets,Samsung",199,USD,3.6,7%
+10025,SAMSUNG Galaxy A54 5G 128 GB,"Cell Phones,Samsung",399,USD,4,13%
+10026,SAMSUNG Galaxy Z Flip 256 GB,"Cell Phones,Samsung",850,USD,4.3,7%
+10027,SAMSUNG Galaxy Buds Pro 2,"Audio,Samsung",109,USD,4.8,7%
+10028,SAMSUNG Galaxy Z Fold 5 256 GB,"Cell Phones,Samsung",1500,USD,3.7,14%
+10029,PlayStation DualSense Wireless Controller,"Gaming,Sony",44,USD,3.8,15%
+10030,Meta Quest 2 ,"Gaming,Meta",234,USD,5,9%
+10031,Razer DeathAdder Mouse,"Gaming,Razer",25,USD,4.2,10%
+10032,Nintendo Switch Pro Controller,"Gaming,Nintendo",70,USD,4.3,12%
+10033,Nintendo Switch,"Gaming,Nintendo",295,USD,4.5,9%
+10034,Xbox Wireless Headset ,"Gaming,Microsoft",90,USD,4.9,12%
+10035,Xbox Core Wireless Gaming Controller,"Gaming,Microsoft",52,USD,4.6,10%
+10036,Xbox Elite Series 2 Wireless,"Gaming,Microsoft",111,USD,3.9,14%
+10037,Sony - PlayStation 5 Slim Console,"Gaming,Sony",500,USD,4.5,14%
+10038,Apple Watch Series 9 (GPS) 45mm,"Smartwatches,Apple",379,USD,4.8,10%
+10039,Apple Watch Series 9 (GPS + Cellular) 45mm,"Smartwatches,Apple",799,USD,4.6,10%
+10040,"MacBook Air 13.6"" Laptop - Apple M2","Laptops,Apple",949,USD,4.9,10%
+10041,"MacBook Air 13.3"" Laptop - Apple M1 chip","Laptops,Apple",749,USD,4.8,10%
+10042,"Apple - MacBook Pro 14"" Laptop - M3 Pro chip","Laptops,Apple",1849,USD,4.6,10%
+10043,HP - Desktop - AMD Ryzen 5 - 12GB Memory - 512GB SSD,"Desktops,HP",450,USD,4.8,10%
+10044,Canon - EOS R50 4K,"Cameras,Canon",750,USD,3.8,12%
+10045,Microsoft - Xbox Series X 1TB Console ,"Gaming,Microsoft",499,USD,4.8,14%
+10046,Nintendo - Switch 32GB Lite,"Gaming,Microsoft",200,USD,4.9,12%
+10047,Microsoft - Xbox Series S 512 GB All-Digital Console,"Gaming,Microsoft",300,USD,4.9,8%
+10048,"ASUS - Zenbook 14X 14.5"" 2.8K OLED","Laptops,Asus",500,USD,4.6,15%
+10049,"HP - Envy 2-in-1 15.6"" Full HD Touch-Screen Laptop - AMD Ryzen 5 ","Laptops,HP",450,USD,4.8,13%
+10050,Microsoft - Surface Laptop Go 3 ,"Laptops,Microsoft",700,USD,4.7,10%
+10051,"Dell - Inspiron 23.8"" Touch screen All-In-One","Desktops,Dell",900,USD,4.7,7%
+10052,Acer - Aspire XC-840-UB11,"Desktops,Acer",300,USD,3.9,12%
+10053,"HP - 21.5"" IPS LED Full HD ","Monitors,HP",90,USD,5,12%
+10054,Samsung - 28” ViewFinity UHD,"Monitors,Samsung",250,USD,3.8,8%
+10055,"Dell - S2421NX 23.8"" IPS LED FHD","Monitors,Dell",95,USD,3.8,13%
+10056,"Samsung - 85"" Class TU690T","TVs,Samsung",999,USD,4.1,11%
+10057,"LG - 65"" Class 80 Series QNED","TVs,LG",1099,USD,4.6,8%
+10058,"Sony - 65"" Class X80K","TVs,Sony",799,USD,4,8%
+10059,"TCL - 55"" Class S4 S-Class","TVs,TCL",269,USD,3.8,14%
+10060,"Samsung - 75"" Class TU690","TVs,Samsung",579,USD,4.9,10%
+10061,"Samsung - 55"" Class The Frame","TVs,Samsung",1199,USD,3.8,14%
+10062,"LG - 65"" Class B3 Series OLED","TVs,LG",1499,USD,4.8,9%
+10063,Sony - Alpha a7 III Mirrorless ,"Cameras,Sony",1799,USD,4.2,9%
+10064,Nikon - Z50 Mirrorless Camera,"Cameras,Nikon",1249,USD,3.6,12%
+10065,Canon - PowerShot V10,"Cameras,Canon",399,USD,3.6,14%
+10066,Polaroid - Now+ Instant Film Camera Generation 2,"Cameras,Polaroid",149,USD,4.5,7%
+10067,Google - Nest Cam 2 Pack,"Smart Home Accessories,Google",269,USD,4.9,12%
+10068,Yale - Assure Lock 2 Smart Lock,"Smart Home Accessories,Yale",279,USD,3.7,9%
+10069,USB-C Charging Cable,"Cell Phones Accessories,Mobo",5,USD,4.9,11%
+10070,Case for iPhone 15 Pro Max Red,"Cell Phones Accessories,Mobo",7,USD,4.4,12%
+10071,Case for iPhone 15 Pro Red,"Cell Phones Accessories,Mobo",6,USD,4.7,13%
+10072,Case for iPhone 15 Red,"Cell Phones Accessories,Mobo",5,USD,3.6,13%
+10073,Case for iPhone 15 Pro Max Black,"Cell Phones Accessories,Mobo",7,USD,4.8,9%
+10074,Case for iPhone 15 Pro Black,"Cell Phones Accessories,Mobo",6,USD,3.6,13%
+10075,Case for iPhone 15 Black,"Cell Phones Accessories,Mobo",5,USD,3.8,7%
+10076,Case for iPhone 15 Pro Max Blue,"Cell Phones Accessories,Mobo",7,USD,3.6,10%
+10077,Case for iPhone 15 Pro Blue,"Cell Phones Accessories,Mobo",6,USD,4.1,13%
+10078,Case for iPhone 15 Blue,"Cell Phones Accessories,Mobo",5,USD,4.7,8%
+10079,Screen Protector for iPhone 15 Pro Max,"Cell Phones Accessories,Mobo",7,USD,3.7,12%
+10080,Screen Protector for iPhone 15 Pro,"Cell Phones Accessories,Mobo",6,USD,4.2,7%
+10081,Screen Protector for iPhone 15 Pro,"Cell Phones Accessories,Mobo",5,USD,3.8,14%
+10082,Apple 20W USB-C Power Adapter,"Cell Phones Accessories,Apple",20,USD,4.7,10%
+10083,Apple 45W USB-C Power Adapter,"Cell Phones Accessories,Apple",50,USD,4.5,10%
+10084,AAA Batteries (4-pack),"Batteries,Duracell",7,USD,3.9,9%
+10085,AA Batteries (4-pack),"Batteries,Duracell",6,USD,3.9,11%
+10086,Lightning Charging Cable,"Cell Phones Accessories,Apple",13,USD,4.7,10%
